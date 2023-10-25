@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "Seven",
+       "artist" : "Jungkook",
+       "genre" : "R&B",
+       "link": "https://www.youtube.com/watch?v=QU9c0053UAU"
+    },
+    "song2" : {
+        "song" : "Enchanted",
+        "artist" : "Taylor Swift",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=igIfiqqVHtA"
+     },
+     "song3" : {
+        "song" : "Levitating",
+        "artist" : "Dua Lipa",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=TUVcZfQe-Kw"
+     },
+     "song4" : {
+        "song" : "Ghost",
+        "artist" : "Justine Beiber",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=Fp8msa5uYsc"
+     },
+     "song5" : {
+        "song" : "Too Much",
+        "artist" : "Kid Lario",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=83Lv790h79k"
+     }
+  }
